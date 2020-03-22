@@ -12,3 +12,7 @@ You can rename or delete a selected save file by right clicking and selecting an
 
 You can also toggle Ori's debug mode on and off.  
 *You will need to restart the game for this change to take effect.*
+
+#
+
+If you encounter any issues or have a suggestion, you can contact me on Twitter [@bowsrcs](https://twitter.com/bowsrcs).
