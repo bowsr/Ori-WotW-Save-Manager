@@ -2,7 +2,7 @@
 ### Installation
 Installation is pretty simple. Place the executable in your desired folder and then run it to create the save file directory.
 ### Usage
-*Currently this program will only check your first save slot (saveFile0.uberstate).*
+*Currently this program will only check and update your first save slot (saveFile0.uberstate).*
 
 When you have your desired save, click the **Import Save** button and enter your desired name. Save file list auto sorts alphabetically.
 
